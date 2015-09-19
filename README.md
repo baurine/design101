@@ -1,2 +1,2 @@
 # design101
-study sketch
+study sketch follow tutorial at [sike.io](http://sike.io/)
