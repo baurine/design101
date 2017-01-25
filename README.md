@@ -1,6 +1,13 @@
-# design101
+# Sike Design
 
-study sketch follow tutorial at [sike.io](http://app.sike.io/courses/design101/)
+Study design and sketch follow tutorial in [sike.io](http://sike.io/).
 
-[note](http://note.youdao.com/share/?id=57dd133492c83619cfd5222c61f02848&type=note)
+## Note
 
+1. [Sike Design Note](./note/sike-design-note.md)
+
+## Samples
+
+![](./note/art/1_lesson_2.png)
+
+![](./note/art/2_lesson_4.png)
